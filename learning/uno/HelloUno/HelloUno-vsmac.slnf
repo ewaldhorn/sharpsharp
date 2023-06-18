@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "HelloUno.sln",
+    "projects": [
+      "HelloUno.Mobile\\HelloUno.Mobile.csproj",
+      "HelloUno.Wasm\\HelloUno.Wasm.csproj",
+      "HelloUno.Server\\HelloUno.Server.csproj",
+      "HelloUno\\HelloUno.csproj"
+    ]
+  }
+}
